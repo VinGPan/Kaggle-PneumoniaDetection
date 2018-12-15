@@ -1,0 +1,10 @@
+#python experiment.py --seed 39 --model fcn8 --batchsize 32 --runcode 1 --trainidx 1 --dim 224 --sdim 232 --epoch 100 --trainertype 3
+#python experiment.py --seed 40 --model fcn8 --batchsize 32 --runcode 2 --trainidx 2 --dim 224 --sdim 232 --epoch 100 --trainertype 3
+#python experiment.py --seed 41 --model fcn8 --batchsize 32 --runcode 3 --trainidx 3 --dim 224 --sdim 232 --epoch 100 --trainertype 3
+python experiment.py --seed 42 --model fcn8 --batchsize 32 --runcode 4 --trainidx 4 --dim 224 --sdim 232 --epoch 100 --trainertype 3
+python experiment.py --seed 43 --model fcn8 --batchsize 32 --runcode 5 --trainidx 5 --dim 224 --sdim 232 --epoch 100 --trainertype 3
+python experiment.py --seed 48 --model fcn8 --batchsize 32 --runcode 6 --trainidx 6 --dim 224 --sdim 232 --epoch 100 --trainertype 3
+python experiment.py --seed 49 --model fcn8 --batchsize 32 --runcode 7 --trainidx 7 --dim 224 --sdim 232 --epoch 100 --trainertype 3
+python experiment.py --seed 50 --model fcn8 --batchsize 32 --runcode 8 --trainidx 8 --dim 224 --sdim 232 --epoch 100 --trainertype 3
+python experiment.py --seed 51 --model fcn8 --batchsize 32 --runcode 9 --trainidx 9 --dim 224 --sdim 232 --epoch 100 --trainertype 3
+python experiment.py --seed 52 --model fcn8 --batchsize 32 --runcode 10 --trainidx 10 --dim 224 --sdim 232 --epoch 100 --trainertype 3
